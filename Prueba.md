@@ -1,3 +1,0 @@
-# Prueba
-
-Juan David Troncoso
