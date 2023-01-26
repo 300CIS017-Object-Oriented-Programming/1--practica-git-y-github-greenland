@@ -1,6 +1,7 @@
 # Presentacion
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ======
 Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* Juan Manuel Arias
 =======
@@ -14,3 +15,6 @@ Juan David Troncoso Soy Luisa Rincón la profesor del curso de *programación or
 =======
 Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* Maria Paula
 >>>>>>> d70b9aa76b7d3520063d3cc65c6485532b2bbf68
+=======
+Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* Maria Paula Sebastian
+>>>>>>> ec2ee0672f8ec848b9e9f5c66e94431afe0dc787
