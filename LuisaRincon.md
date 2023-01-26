@@ -1,3 +1,3 @@
 # Presentacion
 
-Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* Maria Paula Jeysa Blandon
+Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* Maria Paula Sebastian Jeysa Blandon
