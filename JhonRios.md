@@ -1,0 +1,17 @@
+printf("        ___             ___\n");
+printf("      _     _         _     _\n");
+printf("     _       _       _       _\n");
+printf("    _         _     _         _\n");;
+printf("   _   <3<3    _   _    <3<3   _\n");
+printf("  _     <3       _       <3     _\n");
+printf("   _                           _\n");
+printf("    _  //// _ _     _ _   ////_\n");
+printf("     __    _   -   -   _    __\n");
+printf("       _   _     _     _   _\n");
+printf("        _   _    2    _   _\n");
+printf("         __  _  3 7  _  __\n");
+printf("           _   _   _   _\n");
+printf("            _    _    _\n");
+printf("             __     __\n");
+printf("               _   _\n");
+printf("                 _\n\n\n");
