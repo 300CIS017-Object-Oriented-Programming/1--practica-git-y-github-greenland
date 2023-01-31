@@ -21,9 +21,14 @@ Soy Luisa Rincón la profesor del curso de *programación orientada a objetos* M
 >>>>>>> ec2ee0672f8ec848b9e9f5c66e94431afe0dc787
 =======
 
+<<<<<<< HEAD
 Soy Luisa Rincón la profesor del curso de *programación orientada a objetos*, Jhon Silva
 ======
 Soy Luisa Rincón la profesor del curso de *programación orientada a objetos*, Juan Manuel Arias
 ======
 
 >>>>>>> f669b246d1af8ea3e23c8942c718a28b22010614
+=======
+Soy Luisa Rincón la profesor de *programación orientada a objetos* Santiago Salazar Gil Maria Camila Guzman FrancOooOooo JhonRios
+
+>>>>>>> 54d5778dc4fbcbe55e260c15b8802ebe61d8f314
